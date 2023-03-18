@@ -1,0 +1,141 @@
+body{
+width:97%;
+background-color: azure;
+margin:10px auto 5px auto;
+}
+
+header{
+
+    border-radius:10px;
+   
+    min-width: 400px;
+    max-width: 90%;
+    min-height: 350px;
+    max-height: 380px;
+    margin:10px auto 15px auto;
+}
+
+header img{
+    background-color:skyblue;
+    width:80%;
+    min-height: 350px;
+    max-height: 400px;
+    padding:auto;
+    border-radius: 7px;
+    box-shadow:5px 5px 10px gray;
+}
+
+nav{
+width:90%;
+display:flex;
+height: 50px;
+margin:auto;
+padding:20px;
+}
+
+button{
+    background-color: rgba(240, 128, 128, 0.651);
+    margin:auto;
+    box-shadow:5px 5px 10px gray;
+    width:auto;
+    height:auto;
+    padding:5px;
+}
+
+button,a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Pattaya', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:16px;
+    font-weight: bold;
+    padding:2px;
+    border:5px;
+}
+
+nav,button{
+    margin:auto;
+    display:flex;
+    border-radius: 7px;
+    border:2px;
+}
+
+h2{
+    font-family:'Pattaya', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    text-align: center;
+}
+
+p{
+    font-family:'Pattaya', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+    font-size: 18px;
+    text-align: center;
+}
+
+footer{
+    width:72%;
+    margin: auto;
+    display:flex;
+    height: 100px;
+}
+footer,a,img{
+    margin:auto;
+    margin:3px auto 3px auto;
+    display:flex;
+    }
+
+#facebook{
+    margin:auto;
+    width:60px;
+    margin:1px;
+    height: 60px;
+    box-shadow:5px 5px 10px gray; 
+    border-radius: 30px;
+}
+    
+
+#insta{
+    width:60px;
+    height: 60px;
+    border-radius: 25px;
+    box-shadow:5px 5px 10px gray;
+}
+
+#whats{
+    width:60px;
+    height:60px;
+    box-shadow:5px 5px 10px gray;
+    border-radius: 30px;
+}
+
+
+
+section{
+    margin: auto;
+    width:80%;
+   
+}
+
+p.rodape{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+
+}
+p.prox{
+    text-align: center;
+    margin-left:100px;
+}
+.bonecas{
+    border-radius: 10px;
+    width: 420px;
+    height: 450px;
+    margin:auto;
+    box-shadow:5px 5px 10px gray;
+}
+
+
+
+
+
+
+
